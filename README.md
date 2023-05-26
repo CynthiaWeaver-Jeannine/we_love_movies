@@ -11,15 +11,15 @@ The accomplished tasks demonstrate the following skills and abilities:
 [x] access relevant information, e.g., retrieve specific data and filter information  
 [x] create an error handler for the case where a route does not exist (404, Not found)  
 [x] build an API with RESTful design principles, e.g. CRUD operations with HTTP verbs and HTTP status codes.  
-[x] create and customize a knexfile.js file n 
+[x] create and customize a knexfile.js file  
 [x] create connection to the database with Knex: 1. "npm install knex";  
     2. install the postgres driver with "npm install pg";  
     3. create a Knex instance, e.g., 'const knex = require("knex")...'  
     4. interact with the database using the Knex instance  
 [x] write database queries to complete CRUD routes in an express server  
 [x] return joined and nested data with Knex; examples: joins are in the "..service.js" files; nested example in update() in the reviews.controller.js  
-[x] database connections using Knex's tools: examples: npx knex migrate:make <migration_name>; npx knex migrate:latest  
-[x]  deploying a backend server (utilized Render)
+[x] database connections using Knex's tools: examples: npx knex migrate:make <migration_name>; npx knex migrate:latest   
+[x] deploying a backend server (utilized Render)
 
 Additional rubric criteria included:  
 [x] all tests are passing in qualified
