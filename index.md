@@ -1,1 +1,0 @@
-Adding this file is an attempt to fix the issue of the project publishing in github with only the readme file.
