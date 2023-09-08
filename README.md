@@ -29,6 +29,29 @@ Additional rubric criteria included:
 [x] the seed command can be run multiple times: tested with "npx knex seed:run"  
 [x] a response is included for "Method Not Allowed"  
 [x] the cors package is included 
+### Built With
+* [![React][React.js]][React-url]
+
+
+## Getting Started
+
+To get a local copy up and running, start with these steps.
+
+### Prerequisites
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+1.  Clone the repo
+   ```sh
+  git clone https://github.com/github_cynthi](https://github.com/CynthiaWeaver-Jeannine/flashcard-o-matic.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
 ## Frontend Repo provided by Thinkful
 [Project We Love Movies Frontend](https://github.com/dakotawatkins/project-we-love-movies-frontend) 
 ## Contact
