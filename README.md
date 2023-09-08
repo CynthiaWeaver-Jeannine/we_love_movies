@@ -30,7 +30,8 @@ Additional rubric criteria included:
 [x] a response is included for "Method Not Allowed"  
 [x] the cors package is included 
 ### Built With
-* [![React][React.js]][React-url]
+* [PostgreSQL](https://www.postgresql.org/)
+* [Knex](https://knexjs.org/)
 
 
 ## Getting Started
