@@ -35,7 +35,7 @@ Additional rubric criteria included:
 
 ## Getting Started
 
-To get a local copy up and running, start with these steps.
+To get a local copy, start with these steps.
 
 ### Prerequisites
 * npm
@@ -46,7 +46,7 @@ To get a local copy up and running, start with these steps.
 ### Installation
 1.  Clone the repo
    ```sh
-  git clone https://github.com/github_cynthi](https://github.com/CynthiaWeaver-Jeannine/flashcard-o-matic.git
+  git clone https://github.com/CynthiaWeaver-Jeannine/we_love_movies.git
    ```
 2. Install NPM packages
    ```sh
