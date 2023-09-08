@@ -29,4 +29,10 @@ Additional rubric criteria included:
 [x] the seed command can be run multiple times: tested with "npx knex seed:run"  
 [x] a response is included for "Method Not Allowed"  
 [x] the cors package is included 
+## Frontend Repo provided by Thinkful
+[Project We Love Movies Frontend](https://github.com/dakotawatkins/project-we-love-movies-frontend) 
+## Contact
 
+Cynthia Weaver [LinkedIn](linkedin.com/in/cynthiajweaver-dev)
+
+Project Link: [Github Repo](https://github.com/CynthiaWeaver-Jeannine/we_love_movies) 
