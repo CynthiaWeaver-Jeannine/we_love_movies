@@ -1,4 +1,6 @@
 # We Love Movies 
+Access movies reviews and find the theaters in which they are showing.
+<br/>
 ![image](https://github.com/CynthiaWeaver-Jeannine/we_love_movies/assets/132491873/feafdc79-6f05-4cb2-8b0e-e5a2ff280ad9)
 
 This is a capstone project completed as a part of the Thinkful Engineering Immersion program.
